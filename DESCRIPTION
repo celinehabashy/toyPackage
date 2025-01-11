@@ -5,9 +5,8 @@ Version: 0.1.0
 Authors@R: c(person(given = "Celine", family = "Habashy",
                     email = "celine.habashy@example.com",
                     role = c("aut", "cre")))
-Maintainer: This is a toy package created for learning purposes.
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Maintainer: Celine Habashy <celine.habashy@example.com>
+Description: This is a toy package created for learning purposes.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
